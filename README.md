@@ -94,4 +94,4 @@
 </div>
 
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<!-- <img src="./assets/animated-wave.svg" /> --> -->
+<!-- <img src="./assets/animated-wave.svg" /> -->
