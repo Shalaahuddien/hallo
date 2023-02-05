@@ -70,7 +70,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
-<div align="center">
+<!-- <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" height="150" alt="streaks graph" />
@@ -94,4 +94,4 @@
 </div>
 
 <!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img src="./assets/animated-wave.svg" />
+<!-- <img src="./assets/animated-wave.svg" /> --> -->
